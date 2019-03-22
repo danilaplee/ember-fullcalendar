@@ -1,0 +1,1 @@
+export { default } from 'ember-cli-calendario/components/show-calendario';
