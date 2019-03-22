@@ -1,5 +1,5 @@
 {
-  "name": "ember-fullcalendar",
+  "name": "ember-cli-calendario",
   "version": "0.1.0",
   "description": "full calendar component addon for ember-cli",
   "directories": {
